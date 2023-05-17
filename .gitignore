@@ -1,0 +1,6 @@
+*ico
+/.metadata
+**/bin
+*.classpath
+*.project
+**/.settings
